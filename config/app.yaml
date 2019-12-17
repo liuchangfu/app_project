@@ -1,0 +1,18 @@
+platformName: Android
+platformVersion: 7.1.2
+deviceName: 127.0.0.1:62026
+app_name: kaoyan3.1.0.apk
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+unicodeKeyboard: True
+resetKeyboard: True
+automationName: uiautomator2
+noReset: False
+#deviceName:  DUK-AL20
+#udid:  da298d9
+ip:
+  - http://127.0.0.1:4723/wd/hub
+  - http://127.0.0.1:4725/wd/hub
+devices_list:
+  - 127.0.0.1:62026
+  - 127.0.0.1:62025
